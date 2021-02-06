@@ -31,6 +31,6 @@ The best way to reach out to me is by email at **kaitlyn@hovalabs.com**.
 
 ## Keep in Touch
 
-[My Website](kaitlynhova.com)  /  [LinkedIn](https://www.linkedin.com/in/kaitlynhova/)  /  [Twitter](https://twitter.com/KaitlynHova)  /  [Instagram](https://www.instagram.com/kaitlynhova/?hl=en)
+[My Website](kaitlynhova.com)  /  [LinkedIn](https://www.linkedin.com/in/kaitlynhova/)  /  [Twitter](https://twitter.com/KaitlynHova)  /  [Instagram](https://www.instagram.com/kaitlynhova/?hl=en) / kaitlyn@hovalabs.com
 
 > Note: I'm a remote engineer forever and ever and ever...and ever.
