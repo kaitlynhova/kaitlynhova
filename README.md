@@ -18,8 +18,17 @@ Currently excited about:
 - **[Vote By Address](https://www.votebyaddress.com/)**: A voting information resource using Google Civic Information API.
 - **[The Synesthesia Network](http://www.thesynesthesianetwork.com/)**: A nexus for synesthetes and researchers of synesthesia.
 
+## Public Speaking
+I enjoy giving talks on lot of topics that include:
+- Design Systems
+- Frontend best practices
+- Synesthesia
+- What motivates us
+
+The best way to reach out to me is by email at **kaitlyn@hovalabs.com**.
+
 ## Keep in Touch
 
 [My Website](kaitlynhova.com)  /  [LinkedIn](https://www.linkedin.com/in/kaitlynhova/)  /  [Twitter](https://twitter.com/KaitlynHova)  /  [Instagram](https://www.instagram.com/kaitlynhova/?hl=en)
 
-> Note: I'm a remote engineer forever and ever and ever. And ever.
+> Note: I'm a remote engineer forever and ever and ever...and ever.
