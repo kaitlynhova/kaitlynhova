@@ -6,6 +6,7 @@ I am co-founder of [Hova Labs](https://www.hovalabs.com/), give [TED talks](http
 Currently excited about:
 - Design Systems
 - Frontend Accessibility
+- [Deductive Component Language](https://www.hovalabs.com/blog/deductive-component-language/)
 - [Typescript](https://www.typescriptlang.org/)
 - [React.js](https://reactjs.org/)
 - [React Remix](https://remix.run/)
