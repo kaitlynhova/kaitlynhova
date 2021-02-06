@@ -21,3 +21,5 @@ Currently excited about:
 ## Keep in Touch
 
 [My Website](kaitlynhova.com)  /  [LinkedIn](https://www.linkedin.com/in/kaitlynhova/)  /  [Twitter](https://twitter.com/KaitlynHova)  /  [Instagram](https://www.instagram.com/kaitlynhova/?hl=en)
+
+> Note: I'm a remote engineer forever and ever and ever. And ever.
