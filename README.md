@@ -12,6 +12,8 @@ Currently excited about:
 - [React Remix](https://remix.run/)
 - [Next.js](https://nextjs.org/)
 - [GraphQL](https://graphql.org/)  /  [Apollo](https://www.apollographql.com/)
+- [Figma](figma.com)
+- [Storybook](https://storybook.js.org/)
 
 ## Projects Include
 - **[The Hovalin](https://www.hovalabs.com/hovalin)**: A 3D printed violin aimed at saving underfunded music programs through STEAM.
