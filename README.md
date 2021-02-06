@@ -14,7 +14,7 @@ Currently excited about:
 
 ## Projects Include
 - **[The Hovalin](https://www.hovalabs.com/hovalin)**: A 3D printed violin aimed at saving underfunded music programs through STEAM.
-- **[Vote By Address](https://www.votebyaddress.com/)** A voting information resource using Google Civic Information API.
+- **[Vote By Address](https://www.votebyaddress.com/)**: A voting information resource using Google Civic Information API.
 - **[The Synesthesia Network](http://www.thesynesthesianetwork.com/)**: A nexus for synesthetes and researchers of synesthesia.
 
 ## Keep in Touch
