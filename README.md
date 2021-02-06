@@ -1,7 +1,7 @@
-# Hi! My name is Hova. (she/they)
+# Hi! My name is Hova.
 
 ## About
-I am co-founder of [Hova Labs](https://www.hovalabs.com/) and do frontend engineering at [Fast.co](https://www.fast.co/). 
+I am co-founder of [Hova Labs](https://www.hovalabs.com/) and do frontend engineering at [Fast.co](https://www.fast.co/). (she/they)
 
 Currently excited about:
 - Design Systems
