@@ -1,7 +1,7 @@
 # Hi! My name is Hova.
 
 ## About
-I am co-founder of [Hova Labs](https://www.hovalabs.com/), give [TED talks](https://www.tedmed.com/speakers/show?id=619749), am a professional violinist, and do frontend engineering at [Fast.co](https://www.fast.co/) 🚀. (she/they)
+I am co-founder of [Hova Labs](https://www.hovalabs.com/), give [TED talks](https://www.tedmed.com/speakers/show?id=619749), am a professional violinist, and am on the frontend engineering team at [Fast.co](https://www.fast.co/) 🚀. (she/they)
 
 Currently excited about:
 - Design Systems
