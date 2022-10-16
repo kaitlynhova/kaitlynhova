@@ -1,7 +1,7 @@
 # Hi! My name is Hova (she/they)
 
 ## About
-I am co-founder of [Hova Labs](https://www.hovalabs.com/), give [TED talks](https://www.tedmed.com/speakers/show?id=619749), am a professional violinist, and am a design system tech lead engineer 🚀.
+I am an executive director of Software at [JP Morgan](https://www.jpmorgan.com/global), co-founder of [Hova Labs](https://www.hovalabs.com/), give [TED talks](https://www.tedmed.com/speakers/show?id=619749), am a professional violinist, and am a design system tech lead engineer 🚀.
 
 Currently excited about:
 - Design Systems
