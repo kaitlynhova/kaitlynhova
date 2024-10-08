@@ -1,7 +1,7 @@
 # Hi! My name is Hova (she/they)
 
 ## About
-I am an Executive Director at [JP Morgan](https://www.jpmorgan.com/global) (Director of Frontend and Design, Checkout), co-founder of [Hova Labs](https://www.hovalabs.com/), give [TED talks](https://www.tedmed.com/speakers/show?id=619749), am a professional violinist, and am a design system tech lead engineer 🚀.
+I am an Executive Director at [JP Morgan](https://www.jpmorgan.com/global) (Director of UI Experience, Checkout), co-founder of [Hova Labs](https://www.hovalabs.com/), give [TED talks](https://www.tedmed.com/speakers/show?id=619749), am a professional violinist, and am a design system tech lead engineer 🚀.
 
 Currently excited about:
 - Design Systems
