@@ -1,9 +1,10 @@
 # Hi! My name is Hova (she/they)
 
 ## About
-I am an Executive Director at [JP Morgan](https://www.jpmorgan.com/global) (Director of UI Experience, Checkout), co-founder of [Hova Labs](https://www.hovalabs.com/), give [TED talks](https://www.tedmed.com/speakers/show?id=619749), am a professional violinist, and am a design system tech lead engineer 🚀.
+I am an Executive Director of Software at [JP Morgan](https://www.jpmorgan.com/global) (Director of UI Experience, Checkout), co-founder of [Hova Labs](https://www.hovalabs.com/), give [TEDMED talks](https://www.tedmed.com/speakers/show?id=619749) and am a professional violinist 🚀.
 
-Currently excited about:
+My current interests and work includes all things:
+- AI
 - Design Systems
 - Internationalization
 - Frontend Accessibility
@@ -23,6 +24,7 @@ Currently excited about:
 
 ## Public Speaking
 I enjoy giving talks on lot of topics that include:
+- AI
 - Design Systems
 - Frontend best practices
 - Synesthesia
